@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elif TUFAN</h1>
 
-- 🌱 I’m currently learning **test automation**
+- 🌱 I’m currently learning **Test Automation**
 
 - 📫 How to reach me **eliiftufaan@gmail.com**
 
