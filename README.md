@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elif TUFAN</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eliftufan&label=Profile%20views&color=0e75b6&style=flat" alt="eliftufan" /> </p>
+
 - 🌱 I’m currently learning **Test Automation**
 
 - 📫 How to reach me **eliiftufaan@gmail.com**
