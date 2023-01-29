@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eliftufan&label=Profile%20views&color=0e75b6&style=flat" alt="eliftufan" /> </p>
 
-- 🌱 I’m currently learning **Test Automation**
+- 🌱 I’m currently learning **Test Automation** and **Front-End Development**
 
 - 📫 How to reach me **eliiftufaan@gmail.com**
 
